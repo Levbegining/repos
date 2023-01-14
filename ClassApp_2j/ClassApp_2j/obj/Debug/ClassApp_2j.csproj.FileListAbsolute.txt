@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\bin\Debug\ClassApp_2j.exe.config
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\bin\Debug\ClassApp_2j.exe
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\bin\Debug\ClassApp_2j.pdb
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\obj\Debug\ClassApp_2j.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\obj\Debug\ClassApp_2j.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\obj\Debug\ClassApp_2j.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\obj\Debug\ClassApp_2j.exe
+C:\Users\lev\source\repos\ClassApp_2j\ClassApp_2j\obj\Debug\ClassApp_2j.pdb

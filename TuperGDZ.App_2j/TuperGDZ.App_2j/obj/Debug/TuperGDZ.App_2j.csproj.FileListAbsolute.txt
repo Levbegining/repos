@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\obj\Debug\TuperGDZ.App_2j.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\obj\Debug\TuperGDZ.App_2j.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\obj\Debug\TuperGDZ.App_2j.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\bin\Debug\TuperGDZ.App_2j.exe.config
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\bin\Debug\TuperGDZ.App_2j.exe
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\bin\Debug\TuperGDZ.App_2j.pdb
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\obj\Debug\TuperGDZ.App_2j.exe
+C:\Users\lev\source\repos\TuperGDZ.App_2j\TuperGDZ.App_2j\obj\Debug\TuperGDZ.App_2j.pdb

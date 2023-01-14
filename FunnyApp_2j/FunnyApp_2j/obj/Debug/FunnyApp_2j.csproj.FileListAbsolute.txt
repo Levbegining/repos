@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\bin\Debug\FunnyApp_2j.exe.config
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\bin\Debug\FunnyApp_2j.exe
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\bin\Debug\FunnyApp_2j.pdb
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\obj\Debug\FunnyApp_2j.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\obj\Debug\FunnyApp_2j.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\obj\Debug\FunnyApp_2j.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\obj\Debug\FunnyApp_2j.exe
+C:\Users\lev\source\repos\FunnyApp_2j\FunnyApp_2j\obj\Debug\FunnyApp_2j.pdb

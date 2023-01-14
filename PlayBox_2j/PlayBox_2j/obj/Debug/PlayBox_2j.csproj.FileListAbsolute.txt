@@ -1,0 +1,16 @@
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\bin\Debug\PlayBox_2j.exe.config
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\bin\Debug\PlayBox_2j.exe
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\bin\Debug\PlayBox_2j.pdb
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\MainWindow.g.cs
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\App.g.cs
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j_MarkupCompile.cache
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j_MarkupCompile.lref
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\MainWindow.baml
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.g.resources
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.Properties.Resources.resources
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.csproj.GenerateResource.cache
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.exe
+C:\Users\lev\source\repos\PlayBox_2j\PlayBox_2j\obj\Debug\PlayBox_2j.pdb
