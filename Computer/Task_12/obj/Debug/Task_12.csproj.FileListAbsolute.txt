@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\Computer\Task_12\bin\Debug\Task_12.exe.config
+C:\Users\lev\source\repos\Computer\Task_12\bin\Debug\Task_12.exe
+C:\Users\lev\source\repos\Computer\Task_12\bin\Debug\Task_12.pdb
+C:\Users\lev\source\repos\Computer\Task_12\obj\Debug\Task_12.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\Computer\Task_12\obj\Debug\Task_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\Computer\Task_12\obj\Debug\Task_12.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\Computer\Task_12\obj\Debug\Task_12.exe
+C:\Users\lev\source\repos\Computer\Task_12\obj\Debug\Task_12.pdb

@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\Computer\Computer_1\bin\Debug\Computer_1.exe.config
+C:\Users\lev\source\repos\Computer\Computer_1\bin\Debug\Computer_1.exe
+C:\Users\lev\source\repos\Computer\Computer_1\bin\Debug\Computer_1.pdb
+C:\Users\lev\source\repos\Computer\Computer_1\obj\Debug\Computer_1.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\Computer\Computer_1\obj\Debug\Computer_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\Computer\Computer_1\obj\Debug\Computer_1.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\Computer\Computer_1\obj\Debug\Computer_1.exe
+C:\Users\lev\source\repos\Computer\Computer_1\obj\Debug\Computer_1.pdb

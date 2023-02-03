@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\Practicum\Enemies\bin\Debug\Enemies.exe.config
+C:\Users\lev\source\repos\Practicum\Enemies\bin\Debug\Enemies.exe
+C:\Users\lev\source\repos\Practicum\Enemies\bin\Debug\Enemies.pdb
+C:\Users\lev\source\repos\Practicum\Enemies\obj\Debug\Enemies.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\Practicum\Enemies\obj\Debug\Enemies.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\Practicum\Enemies\obj\Debug\Enemies.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\Practicum\Enemies\obj\Debug\Enemies.exe
+C:\Users\lev\source\repos\Practicum\Enemies\obj\Debug\Enemies.pdb

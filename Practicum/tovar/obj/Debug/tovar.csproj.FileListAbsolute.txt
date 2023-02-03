@@ -1,0 +1,8 @@
+C:\Users\lev\source\repos\Practicum\tovar\bin\Debug\tovar.exe.config
+C:\Users\lev\source\repos\Practicum\tovar\bin\Debug\tovar.exe
+C:\Users\lev\source\repos\Practicum\tovar\bin\Debug\tovar.pdb
+C:\Users\lev\source\repos\Practicum\tovar\obj\Debug\tovar.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\Practicum\tovar\obj\Debug\tovar.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\Practicum\tovar\obj\Debug\tovar.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\Practicum\tovar\obj\Debug\tovar.exe
+C:\Users\lev\source\repos\Practicum\tovar\obj\Debug\tovar.pdb

@@ -1,0 +1,16 @@
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\bin\Debug\Task_01_01.02.2023_2J.exe.config
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\bin\Debug\Task_01_01.02.2023_2J.exe
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\bin\Debug\Task_01_01.02.2023_2J.pdb
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.csproj.SuggestedBindingRedirects.cache
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\MainWindow.g.cs
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\App.g.cs
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J_MarkupCompile.cache
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J_MarkupCompile.lref
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\MainWindow.baml
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.g.resources
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01._02._2023_2J.Properties.Resources.resources
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.csproj.GenerateResource.cache
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.exe
+C:\Users\lev\source\repos\Task\Task_01_01.02.2023_2J\obj\Debug\Task_01_01.02.2023_2J.pdb
